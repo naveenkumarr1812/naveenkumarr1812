@@ -6,7 +6,7 @@
 🚀 B.Tech CSE student passionate about Data Science, AI, and ML. Actively learning and building projects to become a Data Science Engineer. Skilled in coding, problem-solving, and exploring new technologies. Love solving challenges and continuously growing in the tech world! 🚀
 
 
-- A skilled developer with a deep passion for AI.  
+- 👨‍🎓 A skilled developer with a deep passion for AI.  
 - 🌱 I’m currently learning **DSA**.  
 - 💬 Ask me about **AI/ML**.  
 - 😄 Pronouns: **he/him**.  
