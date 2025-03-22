@@ -1,23 +1,12 @@
-## Hi there 👋
 
-<!--
-**naveenkumarr1812/naveenkumarr1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about AI/ML
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am lazy but smart.
--->
+##Naveen Kumar
 
 # 💫 About Me:
 🧑‍🎓A skilled developer with a deep passion for AI.<br>
-
+- 🌱 I’m currently learning DSA
+- 💬 Ask me about AI/ML
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I am lazy but smart.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-kumar-20716425b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_Naveenkumarr_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkumarr1812@gmail.com) 
