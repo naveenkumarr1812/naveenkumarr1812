@@ -1,7 +1,7 @@
 
-## Naveen Kumar
+# Naveen Kumar
 
-# 💫 About Me:
+## 💫 About Me:
 🧑‍🎓A skilled developer with a deep passion for AI.<br>
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about AI/ML
