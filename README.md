@@ -7,10 +7,10 @@
 
 
 - A skilled developer with a deep passion for AI.  
-- 🌱 I’m currently learning **DSA**  
-- 💬 Ask me about **AI/ML**  
-- 😄 Pronouns: **he/him**  
-- ⚡ Fun fact: **I am lazy but smart**  
+- 🌱 I’m currently learning **DSA**.  
+- 💬 Ask me about **AI/ML**.  
+- 😄 Pronouns: **he/him**.  
+- ⚡ Fun fact: **I am lazy but smart**.  
 
 <b>🌐 Socials: </b>  
 <p align="left">
