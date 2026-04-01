@@ -6,9 +6,9 @@
 
 *Building intelligent systems, one token at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/naveenkumarr1812/))
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ohhnaveen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://whoisnaveenkumar.netlify.app/)
 
 </div>
 
@@ -20,7 +20,7 @@ I'm a Generative AI Developer based in Pune, India — focused on building produ
 
 - 🔭 Currently working with **LangGraph**, **LangChain**, and **FastAPI** to build reliable AI systems
 - 🧠 Deep interest in **RAG architectures**, **multi-agent systems**, and **LLM tooling**
-- 🛠️ Published a VS Code extension — [**Alerter**](https://marketplace.visualstudio.com/items?itemName=your-extension) — a sound & status bar flash notifier for terminal events
+- 🛠️ Published a VS Code extension — [**Alerter**](https://marketplace.visualstudio.com/items?itemName=naveenkumarr1812.alerter) — a sound & status bar flash notifier for terminal events
 - 📍 Pune, India
 
 ---
@@ -60,15 +60,6 @@ I'm a Generative AI Developer based in Pune, India — focused on building produ
 
 ---
 
-## Connect
-
-I share my AI learning journey, project updates, and the occasional hot take on tech.
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 🐦 [Twitter / X](https://twitter.com/your-username)
-- 📧 your@email.com
-
----
 
 <div align="center">
   <sub>Always learning. Always building.</sub>
