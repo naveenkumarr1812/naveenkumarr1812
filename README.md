@@ -1,46 +1,76 @@
+<div align="center">
 
- 
-#  Hii!👋 I'm Naveen Kumar 
+# Naveen
 
+**Generative AI Developer**
 
-🚀 B.Tech CSE student passionate about Data Science, AI, and ML. Actively learning and building projects to become a Data Science Engineer. Skilled in coding, problem-solving, and exploring new technologies. Love solving challenges and continuously growing in the tech world! 🚀
+*Building intelligent systems, one token at a time.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
-- 👨‍🎓 A skilled developer with a deep passion for AI.  
-- 🌱 I’m currently learning **DSA**.  
-- 💬 Ask me about **AI/ML**.  
-- 😄 Pronouns: **he/him**.  
-- ⚡ Fun fact: **I am lazy but smart**.  
+</div>
 
-<b>🌐 Socials: </b>  
-<p align="left">
-<a href="https://www.linkedin.com/in/naveen-kumar-20716425b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/_Naveenkumarr_"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-<a href="mailto:naveenkumarr1812@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+---
 
+## About Me
 
-<b>💻 Tech Stack:</b>  
-<p align="left">
-<a href="https://dev.java/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-</p>
-<p align="left">
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-</p>
+I'm a Generative AI Developer based in Pune, India — focused on building production-ready AI applications using LLMs, RAG pipelines, and agentic workflows.
 
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
+- 🔭 Currently working with **LangGraph**, **LangChain**, and **FastAPI** to build reliable AI systems
+- 🧠 Deep interest in **RAG architectures**, **multi-agent systems**, and **LLM tooling**
+- 🛠️ Published a VS Code extension — [**Alerter**](https://marketplace.visualstudio.com/items?itemName=your-extension) — a sound & status bar flash notifier for terminal events
+- 📍 Pune, India
 
+---
 
+## Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarr1812&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+**AI / ML**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
+**Backend & APIs**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+**Tools & Extensions**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## What I'm Building
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🤖 **LangGraph PDF Chatbot** | A RAG-powered chatbot over PDF docs with persistent memory and a Streamlit frontend | LangGraph · FAISS · Streamlit |
+| 🏥 **Multi-RAG Medical Assistant** | Clinical decision support system with multi-source retrieval and LLM reasoning | FastAPI · FAISS · GPT-4o-mini |
+| 🔔 **Alerter** | VS Code extension for sound + status bar flash notifications on terminal events | TypeScript · VS Code API |
+
+---
+
+## Connect
+
+I share my AI learning journey, project updates, and the occasional hot take on tech.
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-username)
+- 🐦 [Twitter / X](https://twitter.com/your-username)
+- 📧 your@email.com
+
+---
+
+<div align="center">
+  <sub>Always learning. Always building.</sub>
+</div>
 
