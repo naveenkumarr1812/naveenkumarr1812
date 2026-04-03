@@ -2,7 +2,7 @@
 
 # Naveen
 
-**Generative AI Developer**
+**AI Engineer**
 
 *Building intelligent systems, one token at a time.*
 
