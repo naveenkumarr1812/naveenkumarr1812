@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Generative AI Developer based in Pune, India — focused on building production-ready AI applications using LLMs, RAG pipelines, and agentic workflows.
+I'm a Generative AI Developer based in Ranchi, India - focused on building production-ready AI applications using LLMs, RAG pipelines, and agentic workflows.
 
 - 🔭 Currently working with **LangGraph**, **LangChain**, and **FastAPI** to build reliable AI systems
 - 🧠 Deep interest in **RAG architectures**, **multi-agent systems**, and **LLM tooling**
